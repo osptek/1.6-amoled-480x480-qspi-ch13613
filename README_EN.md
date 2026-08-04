@@ -110,6 +110,7 @@ Current module version: **AM160Q480480LK**. Electrical and mechanical details fo
 - Technical support / product inquiry: <luyu@osptek.com>
 - QQ group (China): **985881096**
 - Website: <https://osptek.com/>
+- For questions or problems, you can also open a GitHub [Issue](https://github.com/osptek/1.6-amoled-480x480-qspi-ch13613/issues)
 
 ---
 
