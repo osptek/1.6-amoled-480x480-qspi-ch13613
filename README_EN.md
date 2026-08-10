@@ -47,6 +47,7 @@ Repo id: `1.6-amoled-480x480-qspi-ch13613`
 <p align="center"><img alt="AM160Q480480LK" src="./images/AM160Q480480LK.png" width="320" /></p>
 
 **Notes:** With touch (CHSC6417).
+
 ---
 
 ## How to Switch Branches
