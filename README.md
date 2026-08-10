@@ -46,8 +46,7 @@
 
 <p align="center"><img alt="AM160Q480480LK" src="./images/AM160Q480480LK.png" width="320" /></p>
 
-**说明：** 模组。
-
+**说明：** 带触摸（CHSC6417）。
 ---
 
 ## 如何切换分支
